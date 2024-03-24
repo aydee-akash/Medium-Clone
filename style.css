@@ -1,0 +1,48 @@
+.nav-logo{
+    height: 30px;
+    width: 150px;
+    background-image: url(1_s986xIGqhfsN8U--09_AdA.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(1.2);
+}
+.nav-links{
+    width:35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar{
+    z-index: 2;
+}
+.box{
+    height: 500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.container{
+    /* background-color:; */
+    position:relative;
+    z-index: 1;
+    /* height: 300px; */
+}
+.header-curious{
+    margin-top: 140px;
+    font-weight: 400;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header-desc{
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+.header{
+    width: 45%;
+}
+.header-button{
+    width: 180px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
